@@ -1,0 +1,26 @@
+PAYROLL SYSTEM - C#
+
+**Login Details**
+
+Username : admin
+Password : admin
+
+**Developed By Mudasir Choudhry**
+
+START XAMPP, 
+GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "payrolldb" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "Database (MySQL)" FOLDER!
+
+***REQUIREMENTS***
+
+- xampp
+- mysql-connector-net-6.4.4.msi
+- mysql-connector-odbc-5.1.9-win32.msi
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+

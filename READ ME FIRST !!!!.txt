@@ -1,0 +1,30 @@
+
+1. Install XAMPP/WAMP
+Download and install XAMPP or WAMP .
+
+2.Start MySQL
+Open XAMPP/WAMP and start the MySQL service.
+
+3. Open phpMyAdmin
+Go to:
+http://localhost/phpmyadmin
+
+4. Create Database
+Click "New" in the left sidebar.
+Name it: payrolldb and click "Create".
+
+5. Import SQL File
+Select payrolldb from the left sidebar.
+Click "Import" > "Choose File".
+Select the datebase file 
+\PayrollSys\Database (MySQL)\payrolldb.sql
+Click "Go".
+
+
+Admin Login
+
+Username: "Mudasir345"
+Password: "1234"
+
+Run Project
+Ensure database connection settings are correct and run your project.
